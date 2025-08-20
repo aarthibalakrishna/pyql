@@ -1,0 +1,7 @@
+-- Active: 1755617405850@@127.0.0.1@2306@pyql
+create table student_record (
+    id int primary key ,
+    name varchar(100) not null,
+    age int not null,
+    grade varchar(10) not null
+);
