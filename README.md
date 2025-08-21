@@ -16,8 +16,11 @@ This project demonstrates how Python and SQL can be combined to create a simple 
 **🛠️ Tech Stack**
 
 Python → Streamlit, Pandas, PyMySQL
+
 Database → MySQL
+
 SQL Queries → CRUD operations (Insert, Select, Update, Delete, Drop)
+
 Frontend → Streamlit UI (interactive forms, checkboxes, radio buttons)
 
 **📂 Project Structure**
